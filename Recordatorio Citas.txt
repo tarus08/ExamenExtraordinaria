@@ -1,0 +1,8 @@
+Nombre del Paciente: Pablo Carrasco
+Fecha de Creacion: 2023-06-23
+Numero de Citas del Paciente: 3
+
+Citas del Paciente:
+Cita{ Fecha Cita: 2023-06-21, Hora Cita: 12:30, Numero de cita: 3, Especialidad: Dermatología, Nombre Medico: Ismael Cuadrado}
+Cita{ Fecha Cita: 2023-06-29, Hora Cita: 12:00, Numero de cita: 2, Especialidad: Dermatología, Nombre Medico: Lorena Pardo}
+Cita{ Fecha Cita: 2023-06-29, Hora Cita: 12:30, Numero de cita: 1, Especialidad: Dermatología, Nombre Medico: Ismael Cuadrado}
