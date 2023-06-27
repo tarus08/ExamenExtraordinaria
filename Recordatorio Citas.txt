@@ -1,8 +1,10 @@
 Nombre del Paciente: Pablo Carrasco
-Fecha de Creacion: 2023-06-23
-Numero de Citas del Paciente: 3
+Fecha de Creacion: 2023-06-27
+Numero de Citas del Paciente: 5
 
 Citas del Paciente:
-Cita{ Fecha Cita: 2023-06-21, Hora Cita: 12:30, Numero de cita: 3, Especialidad: Dermatología, Nombre Medico: Ismael Cuadrado}
-Cita{ Fecha Cita: 2023-06-29, Hora Cita: 12:00, Numero de cita: 2, Especialidad: Dermatología, Nombre Medico: Lorena Pardo}
-Cita{ Fecha Cita: 2023-06-29, Hora Cita: 12:30, Numero de cita: 1, Especialidad: Dermatología, Nombre Medico: Ismael Cuadrado}
+Cita{ Fecha Cita: 2023-08-08, Hora Cita: 12:00, Numero de cita: 5, Especialidad: Neurología, Nombre Medico: Jimmy Lorenzana}
+Cita{ Fecha Cita: 2023-09-01, Hora Cita: 13:00, Numero de cita: 4, Especialidad: Medicina General, Nombre Medico: Lucía Cloud}
+Cita{ Fecha Cita: 2023-10-01, Hora Cita: 12:30, Numero de cita: 3, Especialidad: Dermatología, Nombre Medico: Lorena Pardo}
+Cita{ Fecha Cita: 2023-10-10, Hora Cita: 12:30, Numero de cita: 2, Especialidad: Medicina General, Nombre Medico: Manuel Romero}
+Cita{ Fecha Cita: 2023-12-12, Hora Cita: 13:00, Numero de cita: 1, Especialidad: Medicina General, Nombre Medico: Manuel Romero}
